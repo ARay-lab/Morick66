@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=Venom&color=timeGradient&height=250&&section=header&text=Morick66&fontSize=90&fontAlign=50&fontAlignY=50&animation=scaleIn" />
+<img src="https://capsule-render.vercel.app/api?type=Venom&color=timeGradient&height=250&&section=header&text=ARay&fontSize=90&fontAlign=50&fontAlignY=50&animation=scaleIn" />
 <p align="center">
 <a href="https://github.com/Morick66"><img src="https://img.shields.io/badge/GitHub-ARay-blue?logo=github" /></a>
 <a href="https://www.morick66.com/"><img src="https://img.shields.io/badge/Blog-Morick莫里克-E4AE3A?logo=hugo&logoColor=white" /></a>
