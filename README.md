@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=Venom&color=timeGradient&height=250&&section=header&text=Morick66&fontSize=90&fontAlign=50&fontAlignY=50&animation=scaleIn" />
 <p align="center">
-<a href="https://github.com/Morick66"><img src="https://img.shields.io/badge/GitHub-Morick66-blue?logo=github" /></a>
+<a href="https://github.com/Morick66"><img src="https://img.shields.io/badge/GitHub-ARay-blue?logo=github" /></a>
 <a href="https://www.morick66.com/"><img src="https://img.shields.io/badge/Blog-Morick莫里克-E4AE3A?logo=hugo&logoColor=white" /></a>
 <a href="mailto:morick655@163.com"><img src="https://img.shields.io/badge/Mail-morick655@163.com-green?logo=Mail.ru&logoColor=white" /></a>
 </p>
